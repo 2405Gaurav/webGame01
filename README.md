@@ -14,13 +14,6 @@
   <p align="center">Crafted with care and creativity by <strong>Gaurav</strong>. This website showcases advanced UI animations, modern frontend architecture, and responsive design techniques.</p>
 </div>
 
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)  
-2. ⚙️ [Tech Stack](#tech-stack)  
-3. 🔋 [Features](#features)  
-4. 🚀 [Getting Started](#getting-started)  
-5. 🛠️ [Deployment](#deployment)
 
 ---
 
