@@ -16,5 +16,4 @@
 
 
 ---
-
-Let me know if you'd like to add a personal logo, links to your portfolio, or social media handles.
+By Gaurav
